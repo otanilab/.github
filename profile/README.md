@@ -1,10 +1,10 @@
 <h3 align="center">
-	<img src="../assets/logo.png" width="150" alt="Logo"/><br/>
+	<img src="https://github.com/otanilab/.github/blob/main/assets/logo.png" width="150" alt="Logo"/><br/>
     OtaniLab
 </h3>
 
 <p align="center">
-  <img src="../assets/line.png" alt="catppuccin palette" width="400" />
+  <img src="https://github.com/otanilab/.github/blob/main/assets/line.png" alt="catppuccin palette" width="400" />
 </p>
 
 <p align="center">
